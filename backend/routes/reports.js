@@ -12,12 +12,3 @@ router.get('/', async (req, res) => {
 });
 
 module.exports = router;
-```
-
----
-
-## 📄 FILE 21 — `backend/.env`
-```
-DATABASE_URL=postgresql://postgres:admin123@localhost:5432/bidashboard
-PORT=5000
-NODE_ENV=development
