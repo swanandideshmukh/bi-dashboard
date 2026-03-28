@@ -1,6 +1,6 @@
 # 📊 Data Analytics & Business Intelligence Dashboard
 
-![Dashboard Preview](https://bi-dashboard-chi.vercel.app)
+<img width="1354" height="673" alt="image" src="https://github.com/user-attachments/assets/d9e61ad8-7ff0-40b1-96d6-5ad27bac1fc7" />
 
 ## 🌐 Live Demo
 👉 **[Click here to view live project](https://bi-dashboard-chi.vercel.app)**
