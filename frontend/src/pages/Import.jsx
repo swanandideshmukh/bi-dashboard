@@ -1,9 +1,6 @@
-'use client';
 import React, { useState } from 'react';
 import Papa from 'papaparse';
 import { useNavigate } from 'react-router-dom';
-
-const API = process.env.REACT_APP_API_URL || 'http://localhost:5000';
 
 export default function Import({ setImportedData }) {
   const [preview, setPreview] = useState([]);
